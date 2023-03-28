@@ -5,6 +5,7 @@
 ## Repository Ubuntu/Debian
 
 * [Ubuntu 22.04 Jammy](repository-ubuntu-debian/ubuntu-22.04-jammy.md)
+* [Debian 11 Bullseye](repository-ubuntu-debian/debian-11-bullseye.md)
 
 ***
 
