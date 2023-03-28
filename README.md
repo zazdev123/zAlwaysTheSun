@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @zAlwaysTheSun
-- 👀 I’m interested in Infrastructure, Development and [Streaming on Twitch](https://twitch.tv/shoqapique)
-- 🌱 I’m currently learning the Batch
-- 💞️ I’m looking to collaborate on [Akun](https://akun.fr) and [PristisHeberg](https://pristis.fr)
-- 📫 How to reach me : [on Discord](https://discord.gg/tsTKwX3Cpt)
+# Bienvenue et merci !
 
+* Ici vous pouvez tout apprendre en étant chill 🙃
+* Ici tout est en français 🇫🇷
+* Ici tout est surveillé et approuvé 😉
+
+Tous les tutoriels ont été effectués, testés ou bien approuvé par le staff ou bien par la communauté.
